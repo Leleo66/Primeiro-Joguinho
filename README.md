@@ -1,3 +1,7 @@
-# Primeiro-Joguinho
-Meu primeiro jogo!
-Esse jogo foi feito por mim durante meu primeiro curso sobre lógica de programação com java script!
+# Primeiro Jogo
+
+> Status do projeto: concluido.
+
+Desenvolvido no intuito de treinar lógica de programação.
+
+:)
